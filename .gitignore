@@ -1,0 +1,19 @@
+# Build outputs (all projects)
+**/bin/
+**/obj/
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Logs
+*.log
+
+# LocalDB
+*.mdf
+*.ldf
+
+# Optional dev settings
+appsettings.Development.json
